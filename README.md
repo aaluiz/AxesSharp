@@ -1,2 +1,2 @@
 # AxesSharp
-Rest In Peace Sharp - Another Rest API library in C#
+One api to simplify the consuming of rest services in C#  .Net Framework Full. 
