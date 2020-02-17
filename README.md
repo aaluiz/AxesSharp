@@ -1,5 +1,5 @@
 # AxesSharp
-One api to simplify the consuming of rest services in C#  .Net Framework Full. 
+One api to simplify the consuming of rest services in C#  .Net Framework Core 3.1. 
 
 Exemple Get:
 
